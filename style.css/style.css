@@ -141,6 +141,10 @@ nav{
 .button .btn1 span {
     gap: 10px;
 }
+/* }
+.button .btn1 img {
+   mar
+} */
 .button .btn2 {
     width: 168px;
     height: 55px;
@@ -381,4 +385,53 @@ font-weight: 400;
 line-height: 20px;
 text-align: center;
 color: #627382;
+
  }
+ /* <!-- ৬ নাম্বার এবং শেষ সেকশন --> */
+
+ .last-parent{
+    padding-top: 120px;
+    height: 348px;
+    width: auto;
+    background-color:#001931;
+    background-size: cover;
+    
+padding: 120px 120px 30px 120px;
+
+ }
+
+ .footer-logo{
+    display: flex;
+    justify-content: space-around;
+    align-items: first baseline;
+ }
+ .footer-last{
+    display: flex;
+    justify-content: space-between;
+    
+}
+.social-title{
+    width: 113px;
+    height: 28px;
+   font-family: "Inter", sans-serif;
+  font-optical-sizing: auto;
+font-size: 20px;
+font-weight: 500;
+line-height: 28px;
+color: #FFFFFF;
+text-align: center;
+}
+.social-icons img {
+  filter: invert(100%) brightness(100%); 
+}
+.footer-bottom{
+    padding-top:100px;
+}
+.footer-bottom p{
+    color: #FFFFFF;
+    margin: auto;
+    text-align: center;
+    width: 1360px;
+    height: 24px;
+}
+ 
