@@ -138,6 +138,10 @@ nav{
     cursor: pointer;
 
 }
+.btn1{
+    margin-left: 5px;
+    margin-top: 20px;
+}
 .button .btn1 span {
     gap: 10px;
 }
@@ -152,6 +156,11 @@ nav{
     border: 2px solid white;
     border-radius: 10px;
     cursor: pointer;
+    font-size:136px 19px ;
+}
+
+.button .btn2 span {
+    gap: 10px;
 }
  /* যতটুকু পারছি ,বাকিটা স্যারকে জিজ্ঞেস করে লিখবো */
 
